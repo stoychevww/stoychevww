@@ -1,6 +1,6 @@
 # 👾 Georgi Stoychev | Full Stack Developer |
 
-![Profile Picture](https://cdn.discordapp.com/attachments/856811771062779935/1284898186070069248/file.png?ex=66e84e2f&is=66e6fcaf&hm=52a95ab67a6cec2ad39cb6d2858bde21c829f4c2d6abab651cc0196b0c2dda2c&) <!-- Replace this with your actual picture or avatar -->
+![Profile Picture](https://cdn.discordapp.com/attachments/852905228205948959/1296710833627201569/IMG_20241016_181934_868.webp?ex=67188d92&is=67173c12&hm=21215a1a1da3691acd94b8383d17f16d0ccfc87f172731be04c30b063234855a&) <!-- Replace this with your actual picture or avatar -->
 
 Hello, I’m **Georgi Stoychev**!  
 I’m a 14-year-old developer from **Stara Zagora, Bulgaria** 🇧🇬, passionate about building cutting-edge technology and exploring new possibilities in the digital world.
