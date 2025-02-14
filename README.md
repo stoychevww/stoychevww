@@ -1,57 +1,16 @@
-# 👾 Georgi Stoychev | Full Stack Developer |
-
-![Profile Picture](https://cdn.discordapp.com/attachments/852905228205948959/1296710833627201569/IMG_20241016_181934_868.webp?ex=675a7892&is=67592712&hm=9c468ccec8a6ea747d2e0e5a8bbba8b42138ec5148ba3a47caa71ac3037be6fc&) <!-- Replace this with your actual picture or avatar -->
-
-Hello, I’m **Georgi Stoychev**!  
-I’m a 14-year-old developer from **Stara Zagora, Bulgaria** 🇧🇬, passionate about building cutting-edge technology and exploring new possibilities in the digital world.
-
-🚀 **Currently working on:**
-
-- **[InviFramework RP Framework](https://github.com/stoychevww/InviFramework)**: A dynamic and immersive roleplay experience for the FiveM platform.
-- **[FusionX](#)**: Revolutionizing how people engage with their fitness goals through technology.
-
-🔭 **My Goals:**  
-I’m focused on expanding my skills in software development and looking to collaborate with like-minded creators. My journey has just begun, and I'm always seeking to explore new fields, learn more, and make an impact.
-
----
-
-## 🛠️ **Tech Stack**
-
-![HTML](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26) ![CSS](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=F7DF1E)  
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB) ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=007396)
-
----
-
-## 💻 **Projects in Progress**
-
-- **FiveM RP Framework**  
-  A modular, realistic RP framework built for the FiveM platform. Designed for performance, player immersion, and security.  
-  _Tech stack: JavaScript, Lua, SQL_
-
-- **Fitness App**  
-  An intuitive fitness app aiming to enhance user workouts with tracking, progress analysis, and a goal-setting system.  
-  _Tech stack: Python, JavaScript, React Native_
-
----
-
-## 🌱 **Always Learning & Growing**
-
-I’m passionate about constantly evolving as a developer. I'm keen on exploring:
-
-- 🤖 **Artificial Intelligence** and **Machine Learning**
-- 🧩 **Game Development** with **Unity** and **Unreal Engine**
-- 🌐 **Full-Stack Development** with modern frameworks like **React**, **Node.js**, and **Django**
-
-Let’s connect and create something amazing together!
-
----
-
-## 📫 **Contact Me**
-
-Feel free to reach out if you're interested in collaborating or have any questions!
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/stoychevww) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](#)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:georgi@stoychevww.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=web&logoColor=white)](https://stoychevww.com)
-
----
+<h1>Hi 👋, I'm Georgi</h1>
+<p>A passionate frontend developer from Stara, Zagora Bulgaria!</p>
+<h2>🚀 Languages and Tools I Use</h2>
+<p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="42" height="42" /></a>
+<a target="_blank" href="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" style="display: inline-block;"><img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="42" height="42" /></a>
+<a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
+<a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" /></a></p>
+<h2>⚡️ Where to find me</h2>
+<p><a target="_blank" href="https://www.facebook.com/Georgi Stoychev" style="display: inline-block;"><img src="https://img.shields.io/badge/facebook-logo?style=for-the-badge&logo=facebook&logoColor=white&color=%230866ff" alt="facebook" /></a>
+<a target="_blank" href="https://www.instagram.com/stoychevww" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a></p>
